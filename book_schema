@@ -1,0 +1,11 @@
+{
+_id:'',
+isbn:'',
+title:''
+authors :[{name:,...},...]
+copies:[
+		{copyNo:'',
+		borrowedBy:{student_id,student_name}
+		}
+	]
+}
