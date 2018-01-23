@@ -5,7 +5,8 @@ title:''
 authors :[{name:,...},...]
 copies:[
 		{copyNo:'',
-		borrowedBy:{student_id,student_name}
+		borrowedBy:
+			{student_id:'',student_name:'',borrowDate:''}
 		}
 	]
 }
